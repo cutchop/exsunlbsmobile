@@ -1,0 +1,1 @@
+java -jar yuicompressor-2.4.6.jar login.js --charset utf-8 -o login.min.js

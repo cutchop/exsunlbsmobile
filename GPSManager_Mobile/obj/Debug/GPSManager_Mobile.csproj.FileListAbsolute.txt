@@ -1,0 +1,5 @@
+D:\wukai\GPSManager_Mobile\GPSManager_Mobile\bin\GPSManager_Mobile.dll
+D:\wukai\GPSManager_Mobile\GPSManager_Mobile\bin\GPSManager_Mobile.pdb
+D:\wukai\GPSManager_Mobile\GPSManager_Mobile\obj\Debug\ResolveAssemblyReference.cache
+D:\wukai\GPSManager_Mobile\GPSManager_Mobile\obj\Debug\GPSManager_Mobile.dll
+D:\wukai\GPSManager_Mobile\GPSManager_Mobile\obj\Debug\GPSManager_Mobile.pdb

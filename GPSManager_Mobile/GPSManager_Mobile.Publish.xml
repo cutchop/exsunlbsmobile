@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Test\Mobile" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="默认网站" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="android/checkuser.ashx" publishTime="10/09/2011 11:33:40" />
+    <file relUrl="android/getdevicelist.ashx" publishTime="08/30/2011 17:13:54" />
+    <file relUrl="android/command.ashx" publishTime="11/28/2011 09:58:24" />
+    <file relUrl="login.aspx" publishTime="11/09/2011 16:41:02" />
+    <file relUrl="android/command_jx.ashx" publishTime="12/28/2011 10:03:50" />
+    <file relUrl="android/student_jx.ashx" publishTime="12/30/2011 11:22:56" />
+    <file relUrl="script/index.js" publishTime="08/19/2011 11:53:26" />
+    <file relUrl="sencha-touch-1.1.0/sencha-touch-debug.js" publishTime="08/15/2011 16:55:00" />
+    <file relUrl="android/inspectionupload.ashx" publishTime="11/14/2011 09:57:16" />
+    <file relUrl="sencha-touch-1.1.0/resources/css/sencha-touch.css" publishTime="03/24/2011 15:12:06" />
+    <file relUrl="script/login.min.js" publishTime="11/09/2011 17:23:18" />
+    <file relUrl="android.png" publishTime="11/09/2011 17:22:32" />
+    <file relUrl="handler/users.aspx" publishTime="08/15/2011 17:04:40" />
+    <file relUrl="handler/Vehicles.aspx" publishTime="08/11/2011 15:34:16" />
+    <file relUrl="sencha-touch-1.1.0/resources/css/apple.css" publishTime="03/24/2011 15:12:06" />
+    <file relUrl="bin/GPSManager_Mobile.dll" publishTime="01/04/2012 15:46:48" />
+    <file relUrl="android/getlocus.ashx" publishTime="10/31/2011 15:30:54" />
+    <file relUrl="sencha-touch-1.1.0/resources/css/bb6.css" publishTime="03/24/2011 15:12:06" />
+    <file relUrl="android/offset.ashx" publishTime="11/18/2011 15:49:42" />
+    <file relUrl="android/gethisgrd.ashx" publishTime="11/11/2011 18:33:52" />
+    <file relUrl="android/getdeviceinfo.ashx" publishTime="08/29/2011 15:01:54" />
+    <file relUrl="sencha-touch-1.1.0/sencha-touch.js" publishTime="08/15/2011 16:57:38" />
+    <file relUrl="iphone.png" publishTime="11/09/2011 17:23:48" />
+    <file relUrl="script/login.js" publishTime="11/09/2011 17:22:54" />
+    <file relUrl="index.aspx" publishTime="08/19/2011 10:18:40" />
+    <file relUrl="script/index.min.js" publishTime="08/19/2011 11:55:22" />
+    <file relUrl="sencha-touch-1.1.0/resources/css/android.css" publishTime="03/24/2011 15:12:06" />
+    <file relUrl="android/getversion.ashx" publishTime="01/04/2012 15:44:24" />
+    <file relUrl="bin/GPSManager_Mobile.pdb" publishTime="01/04/2012 15:46:48" />
+    <file relUrl="sencha-touch-1.1.0/guide.css" publishTime="07/14/2011 14:59:20" />
+    <file relUrl="Web.config" publishTime="01/04/2012 15:48:00" />
+  </publishProfile>
+</publishData>
